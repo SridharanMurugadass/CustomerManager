@@ -2,7 +2,6 @@
   "name": "store-system",
   "version": "0.1.0",
   "description": "Store System",
-  "author": "Stenio Wagner",
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
